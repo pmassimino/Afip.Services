@@ -1,0 +1,9 @@
+C:\Proyectos\Afip.Services\Afip.Services\bin\Release\netstandard2.0\Afip.Services.deps.json
+C:\Proyectos\Afip.Services\Afip.Services\bin\Release\netstandard2.0\Afip.Services.dll
+C:\Proyectos\Afip.Services\Afip.Services\bin\Release\netstandard2.0\Afip.Services.pdb
+C:\Proyectos\Afip.Services\Afip.Services\obj\Release\netstandard2.0\Afip.Services.csprojAssemblyReference.cache
+C:\Proyectos\Afip.Services\Afip.Services\obj\Release\netstandard2.0\Afip.Services.AssemblyInfoInputs.cache
+C:\Proyectos\Afip.Services\Afip.Services\obj\Release\netstandard2.0\Afip.Services.AssemblyInfo.cs
+C:\Proyectos\Afip.Services\Afip.Services\obj\Release\netstandard2.0\Afip.Services.csproj.CoreCompileInputs.cache
+C:\Proyectos\Afip.Services\Afip.Services\obj\Release\netstandard2.0\Afip.Services.dll
+C:\Proyectos\Afip.Services\Afip.Services\obj\Release\netstandard2.0\Afip.Services.pdb
